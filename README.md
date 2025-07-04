@@ -48,7 +48,7 @@ This project includes:
 
 ## 🌐 View Live Output
 *(Optional — if you enabled GitHub Pages)*  
-👉 [Live Release Notes](https://yourusername.github.io/whatsapp-release-notes/output.html)
+👉 [Live Release Notes](https://Navin-Doc-Lab.github.io/whatsapp-release-notes/output.html)
 
 ---
 
