@@ -1,0 +1,28 @@
+{
+  "version": "v2.25.13.78",
+  "date": "April 18, 2025",
+  "type": "Minor",
+  "product": "App Platform",
+  "author": "Navinkumar S",
+  "audience": "External",
+  "summary": "This minor update enhances the messaging experience with customizable chats, improved media captioning, and faster performance. We’ve also resolved several bugs for a more stable and secure WhatsApp experience on mobile platforms.",
+  "new_features": [
+    "Custom Chat Backgrounds per Contact: Personalize your chats by setting unique wallpapers for individual contacts. Available under Contact Info > Wallpaper & Sound.",
+    "Enhanced Media Captioning: Enjoy a revamped interface for adding captions to photos and videos, now with better formatting and a visible character limit.",
+    "Voice Message Speed Control: Play voice messages at 1.5x or 2x speed for quicker listening. Tap the message bubble to adjust speed."
+  ],
+  "improvements": [
+    "Faster Media Loading: Large photos and videos now load more quickly within chats.",
+    "Improved Sticker Search: More accurate results when searching for your favourite stickers.",
+    "Reduced App Launch Time: WhatsApp now starts faster across supported devices.",
+    "Enhanced Security: Group call encryption protocols have been updated for improved privacy."
+  ],
+  "bug_fixes": [
+    "Resolved crashes that occurred when sending multiple large video files.",
+    "Fixed GIF playback issues affecting certain Android devices.",
+    "Restored notification sounds that occasionally failed to play.",
+    "Corrected member count inconsistencies in group info panels."
+  ],
+  "breaking_changes": "None in this release.",
+  "known_issues": "Some users may experience a slight delay in loading very high-resolution images when on a slow network connection. We are actively working on further optimizations."
+}
